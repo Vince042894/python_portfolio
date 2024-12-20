@@ -13,3 +13,8 @@ with col2:
         """
 
     st.info(content)
+
+content2="""
+Below you can find some of the apps I build in Python.
+"""
+st.subheader(content2)
